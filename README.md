@@ -26,3 +26,8 @@ The Investment can be done in one of the following ways
 </p>
 
 ## System Architecture
+
+
+<p align="center">
+  <img src="assets/arch.png">
+</p>
