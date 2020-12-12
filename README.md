@@ -1,6 +1,6 @@
 # Finance-It
 
-## Crowdfunding Platform for Startups and SMEs
+## Crowdfunding Platform for Start-ups and SMEs
 
 India has the **3rd largest startup ecosystem in the world**; expected to witness YoY growth of a consistent annual growth of 12-15%.
 
