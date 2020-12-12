@@ -1,0 +1,3 @@
+[submodule "main-server"]
+	path = main-server
+	url = git@github.com:Finance-It/main-server.git
