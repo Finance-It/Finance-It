@@ -1,3 +1,6 @@
 [submodule "main-server"]
 	path = main-server
 	url = https://github.com/Finance-It/main-server/tree/main
+[submodule "main-client"]
+	path = main-client
+	url = https://github.com/Finance-It/main-client
