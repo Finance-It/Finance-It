@@ -1,5 +1,7 @@
 # Finance-It
 
+> This repository only contains information about the platform, Acutual source code of backend server is at https://github.com/Finance-It/main-server and of frontend is at https://github.com/Finance-It/main-client
+
 ## Crowdfunding Platform for Start-ups and SMEs
 
 India has the **3rd largest startup ecosystem in the world**; expected to witness YoY growth of a consistent annual growth of 12-15%.
