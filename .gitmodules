@@ -1,0 +1,3 @@
+[submodule "main-server"]
+	path = main-server
+	url = https://github.com/Finance-It/main-server
